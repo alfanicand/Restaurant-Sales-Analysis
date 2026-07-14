@@ -74,11 +74,10 @@ Dashboard dibuat untuk menyajikan hasil analisis secara interaktif sehingga memu
 
 Beberapa insight yang diperoleh dari hasil analisis antara lain:
 
-Menu Paling Banyak dan Paling Sedikit Dipesan, hamburger merupakan menu dengan jumlah pemesanan tertinggi, sedangkan Cheese Quesadillas menjadi menu dengan jumlah pemesanan terendah. Temuan ini dapat menjadi dasar untuk mempertahankan menu yang populer serta mengevaluasi menu dengan permintaan rendah.
-Pesanan dengan Pengeluaran Tertinggi, pesanan dengan nilai pengeluaran tertinggi terdiri dari beberapa menu dalam satu transaksi, pola ini dapat dimanfaatkan untuk menyusun paket menu atau strategi bundling.
-Jumlah Transaksi Berdasarkan Jam, aktivitas transaksi meningkat pada jam makan siang dan kembali meningkat pada jam makan malam, sehingga kedua periode tersebut merupakan waktu operasional tersibuk. Informasi ini dapat digunakan untuk membantu perencanaan staf dan persediaan bahan baku.
-Jumlah Penjualan per Kategori Menu, Kategori Asian memiliki jumlah penjualan tertinggi dibandingkan kategori lainnya, sehingga berpotensi menjadi fokus pengembangan menu di masa mendatang. Sebaliknya, kategori dengan penjualan lebih rendah dapat dievaluasi untuk meningkatkan daya tarik pelanggan.
-
+- Menu Paling Banyak dan Paling Sedikit Dipesan, hamburger merupakan menu dengan jumlah pemesanan tertinggi, sedangkan Cheese Quesadillas menjadi menu dengan jumlah pemesanan terendah. Temuan ini dapat menjadi dasar untuk mempertahankan menu yang populer serta mengevaluasi menu dengan permintaan rendah.
+- Pesanan dengan Pengeluaran Tertinggi, pesanan dengan nilai pengeluaran tertinggi terdiri dari beberapa menu dalam satu transaksi, pola ini dapat dimanfaatkan untuk menyusun paket menu atau strategi bundling.
+- Jumlah Transaksi Berdasarkan Jam, aktivitas transaksi meningkat pada jam makan siang dan kembali meningkat pada jam makan malam, sehingga kedua periode tersebut merupakan waktu operasional tersibuk. Informasi ini dapat digunakan untuk membantu perencanaan staf dan persediaan bahan baku.
+- Jumlah Penjualan per Kategori Menu, Kategori Asian memiliki jumlah penjualan tertinggi dibandingkan kategori lainnya, sehingga berpotensi menjadi fokus pengembangan menu di masa mendatang. Sebaliknya, kategori dengan penjualan lebih rendah dapat dievaluasi untuk meningkatkan daya tarik pelanggan.
 
 ## Rekomendasi Bisnis
 
