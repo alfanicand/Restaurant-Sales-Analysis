@@ -68,7 +68,7 @@ Dashboard dibuat untuk menyajikan hasil analisis secara interaktif sehingga memu
 
 ## Dashboard Power BI
 
-![Dashboard](images/Screenshot 2026-07-14 122255.png)
+![Dashboard](images/Dashboard.png)
 
 ## Business Insight
 
